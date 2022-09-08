@@ -30,10 +30,6 @@ https://www.nature.com/articles/s41598-021-03938-w#Sec2
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8741893/
 
-#### Functional Near-Infrared Spectroscopy (fNIRS) Cognitive Brain Monitor (LEW-TOPS-84)
-
-https://technology.nasa.gov/patent/LEW-TOPS-84
-
 #### Chapter 12 - Tensors for neuroimaging: A review on applications of tensors to unravel the mysteries of the brain
 
 https://www.sciencedirect.com/science/article/pii/B9780128244470000182
