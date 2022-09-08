@@ -8,7 +8,7 @@ links to articles, blog posts, actual scientific findings, wikipedia write-ups, 
 
 ----
 
-### blog posts 
+## blog posts 
 
 #### How is V2K - Voice to Skull done?
 
@@ -22,7 +22,7 @@ https://medium.com/@pragroup/report-02-22-psychological-tactics-of-v2k-harassmen
 
 ----
 
-### science
+## science
 
 #### Hyperrealistic neural decoding for reconstructing faces from fMRI activations via the GAN latent space 
 
@@ -57,7 +57,7 @@ https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=
 
 ----
 
-### wikipedia links
+## wikipedia links
 
 [Neuroimaging](https://en.wikipedia.org/wiki/Neuroimaging)
 
@@ -84,7 +84,7 @@ https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=
 
 ----
 
-### articles 
+## articles 
 
 #### ‘Mind-Reading’ Technology Can Turn Brain Activity Into Images
 
