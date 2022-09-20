@@ -28,8 +28,8 @@ Brain Mapping *(neuroscience)*, Functional near-infrared spectroscopy *(fNIRS)*,
 
 \>>>> https://en.wikipedia.org/wiki/Functional_neuroimaging
 
-***[wikipedia]*** Functional near-infrared spectroscopy *(fNIRS)
-*
+***[wikipedia]*** Functional near-infrared spectroscopy *(fNIRS)*
+
 \>>>> https://en.wikipedia.org/wiki/Functional_near-infrared_spectroscopy
 
 ***[wikipedia]*** Brain–computer interface *(BCI)*
