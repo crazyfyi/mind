@@ -11,7 +11,7 @@ Brain Mapping *(neuroscience)*, Functional near-infrared spectroscopy *(fNIRS)*,
   * [Neuroimaging](#Neuroimaging)
 * [Voices](#Voices)
   * [Voice-to-skull (V2k)](#voice-to-skull-v2k)
- * [Related Topics](#Related-Topics)
+* [Related Topics](#Related-Topics)
   * [Targeted Individuals](#Targeted-Individuals)
   * [Privacy](#Privacy)
 
