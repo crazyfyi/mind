@@ -40,6 +40,10 @@ Brain Mapping *(neuroscience)*, Functional near-infrared spectroscopy *(fNIRS)*,
 
 \>>>> https://en.wikipedia.org/wiki/Consumer_brain%E2%80%93computer_interfaces
 
+***[wikipedia]*** Bioinformatics
+
+\>>>> https://en.wikipedia.org/wiki/Bioinformatics
+
 ***[wikipedia]*** Artificial neural network *(ANNs)*
 
 \>>>> https://en.wikipedia.org/wiki/Artificial_neural_network
