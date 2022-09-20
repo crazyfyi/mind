@@ -48,6 +48,10 @@ Brain Mapping *(neuroscience)*, Functional near-infrared spectroscopy *(fNIRS)*,
 
 \>>>> https://en.wikipedia.org/wiki/Generative_adversarial_network
 
+***[science; 2017]*** Brain-Machine Interfaces: From Basic Science to Neuroprostheses and Neurorehabilitation
+
+\>>>> https://pubmed.ncbi.nlm.nih.gov/28275048/
+
 ***[science; 2022]*** Hyperrealistic neural decoding for reconstructing faces from fMRI activations via the GAN latent space 
 
 \>>>> https://www.nature.com/articles/s41598-021-03938-w
