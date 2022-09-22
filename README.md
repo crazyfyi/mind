@@ -44,13 +44,51 @@ Brain Mapping *(neuroscience)*, Functional near-infrared spectroscopy *(fNIRS)*,
 
 \>>>> https://en.wikipedia.org/wiki/Bioinformatics
 
-***[wikipedia]*** Artificial neural network *(ANNs)*
+***[wikipedia]*** Brain-reading
+
+\>>>> https://en.wikipedia.org/wiki/Brain-reading
+
+***[wikipedia]*** Phased array
+
+\>>>> https://en.wikipedia.org/wiki/Phased_array
+
+***[wikipedia]*** High-intensity focused ultrasound
+
+\>>>> https://en.wikipedia.org/wiki/High-intensity_focused_ultrasound
+
+***[wikipedia]*** Measurement and signature intelligence *(MASINT)*
+
+\>>>> https://en.wikipedia.org/wiki/Measurement_and_signature_intelligence
+
+***[wikipedia]*** Artificial general intelligence *(AGI)*
+
+\>>>> https://en.wikipedia.org/wiki/Artificial_general_intelligence
+
+***[wikipedia]*** Artificial neural network *(ANN)*
 
 \>>>> https://en.wikipedia.org/wiki/Artificial_neural_network
 
 ***[wikipedia]*** Generative adversarial network *(GAN)*
 
 \>>>> https://en.wikipedia.org/wiki/Generative_adversarial_network
+
+***[wikipedia]*** Convolutional neural network *(CNN)* *(ConvNet)*
+
+\>>>> https://en.wikipedia.org/wiki/Convolutional_neural_network
+
+***[science; 2021]*** Projections and the Potential Societal Impact of the Future of Neurotechnologies
+
+\>>>> https://www.frontiersin.org/articles/10.3389/fnins.2021.658930/full
+
+***[science; 2020]*** Brain Recording, Mind-Reading, and Neurotechnology: Ethical Issues from Consumer Devices to Brain-Based Speech Decoding
+
+\>>>> https://pubmed.ncbi.nlm.nih.gov/32356091/
+
+\>>>> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7417394/
+
+***[science; 2019]***  Neurotechnologies for Human Cognitive Augmentation: Current State of the Art and Future Prospects
+
+\>>>> https://pubmed.ncbi.nlm.nih.gov/30766483/
 
 ***[science; 2017]*** Brain-Machine Interfaces: From Basic Science to Neuroprostheses and Neurorehabilitation
 
@@ -61,6 +99,26 @@ Brain Mapping *(neuroscience)*, Functional near-infrared spectroscopy *(fNIRS)*,
 \>>>> https://www.nature.com/articles/s41598-021-03938-w
 
 \>>>> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8741893/
+
+***[science; 2020]*** Decoding Imagined and Spoken Phrases From Non-invasive Neural (MEG) Signals
+
+\>>>> https://www.frontiersin.org/articles/10.3389/fnins.2020.00290/full
+
+***[science; 2020]*** Latent Factor Decoding of Multi-Channel EEG for Emotion Recognition Through Autoencoder-Like Neural Networks
+
+\>>>> https://www.frontiersin.org/articles/10.3389/fnins.2020.00087/full
+
+***[science; 2022]*** Imagined speech can be decoded from low- and cross-frequency intracranial EEG features
+
+\>>>> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8748882/
+
+***[science; 2019]*** Towards reconstructing intelligible speech from the human auditory cortex
+
+\>>>> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6351601/
+
+***[science; 2022]*** Neurotechnologies under the Eye of Bioethics
+
+\>>>> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9215686/
 
 ***[science; 2022]*** Chapter 12 - Tensors for neuroimaging: A review on applications of tensors to unravel the mysteries of the brain
 
@@ -85,6 +143,10 @@ Brain Mapping *(neuroscience)*, Functional near-infrared spectroscopy *(fNIRS)*,
 ***[article; 2021]*** We Are Tremendously Close to Brain-Controlled Computers
 
 \>>>> https://interestingengineering.com/innovation/brain-controlled-computers-darpa-nanoparticles
+
+***[article; 2007]*** The brain scan that can read people's intentions
+
+\>>>> https://www.theguardian.com/science/2007/feb/09/neuroscience.ethicsofscience
 
 ***[article; 2022]*** Meta AI can tell which words you hear by reading your 
 brainwaves 
@@ -237,3 +299,4 @@ brainwaves
 <br />
 
 ----
+
