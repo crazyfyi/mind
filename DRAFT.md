@@ -28,7 +28,7 @@ This document will supply answers to all the basic questions *(who, what, how, w
 
 There are several branches of the United States Military and Government that are tasked specifically with researching and developing AI, machine learning, human-machine teaming, and related technologies. Some of these "organizations", as they're commonly referred to as, are listed below.
 
-##### U.S. Naval Research Laboratory
+### U.S. Naval Research Laboratory
 
 --> https://www.nrl.navy.mil/Our-Work/Areas-of-Research/
 
@@ -46,7 +46,7 @@ There are several branches of the United States Military and Government that are
 
 --> https://www.nrl.navy.mil/itd/aic/
 
-##### Chief Digital and Artificial Intelligence Office
+### Chief Digital and Artificial Intelligence Office
 
 --> https://www.ai.mil/
 
@@ -54,7 +54,7 @@ There are several branches of the United States Military and Government that are
 
 --> https://en.wikipedia.org/wiki/Joint_Artificial_Intelligence_Center
 
-##### Defense Advanced Research Projects Agency *(DARPA)*
+### Defense Advanced Research Projects Agency *(DARPA)*
 
 --> https://en.wikipedia.org/wiki/DARPA
 
@@ -216,7 +216,11 @@ Globally.  *More data to come.*
 ##### ETHICS
 
 [1]: https://www.frontiersin.org/articles/10.3389/fnins.2021.658930/full - Projections and the Potential Societal Impact of the Future of Neurotechnologies (2021)
+
 [2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7417394/ - Brain Recording, Mind-Reading, and Neurotechnology: Ethical Issues from Consumer Devices to Brain-Based Speech Decoding (2020)
+
 [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9215686/ - Neurotechnologies under the Eye of Bioethics (2022)
+
 [4]: https://www.theguardian.com/science/2007/feb/09/neuroscience.ethicsofscience - The brain scan that can read people's intentions (2007)
+
 
