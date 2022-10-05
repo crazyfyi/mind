@@ -60,6 +60,26 @@ Brain Mapping *(neuroscience)*, Functional near-infrared spectroscopy *(fNIRS)*,
 
 \>>>> https://en.wikipedia.org/wiki/Measurement_and_signature_intelligence
 
+***[wikipedia]*** Geospatial intelligence
+
+\>>>> https://en.wikipedia.org/wiki/Geospatial_intelligence
+
+***[wikipedia]*** National Geospatial-Intelligence Agency
+
+\>>>> https://en.wikipedia.org/wiki/National_Geospatial-Intelligence_Agency
+
+***[wikipedia]*** Remote sensing
+
+\>>>> https://en.wikipedia.org/wiki/Remote_sensing
+
+***[wikipedia]*** Neuromorphic engineering
+
+\>>>> https://en.wikipedia.org/wiki/Neuromorphic_engineering
+
+***[wikipedia]*** Atmospheric satellite
+
+\>>>> https://en.wikipedia.org/wiki/Atmospheric_satellite
+
 ***[wikipedia]*** Artificial general intelligence *(AGI)*
 
 \>>>> https://en.wikipedia.org/wiki/Artificial_general_intelligence
@@ -75,6 +95,32 @@ Brain Mapping *(neuroscience)*, Functional near-infrared spectroscopy *(fNIRS)*,
 ***[wikipedia]*** Convolutional neural network *(CNN)* *(ConvNet)*
 
 \>>>> https://en.wikipedia.org/wiki/Convolutional_neural_network
+
+***[science; .mil]*** U.S. Naval Research Laboratory 
+
+\>>>> https://www.nrl.navy.mil/Our-Work/Areas-of-Research/
+
+\>>>> https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Artificial-Intelligence/
+
+***[science; .mil]*** NRL - Institute for Nanoscience
+
+\>>>> https://www.nrl.navy.mil/nanoscience/
+
+***[science; .mil]*** NRL - Laboratory for Autonomous Systems Research *(LASR)*
+
+\>>>> https://www.nrl.navy.mil/lasr/
+
+***[science; .mil]*** Navy Center for Applied Research in Artificial Intelligence *(NCARAI)*
+
+\>>>> https://www.nrl.navy.mil/itd/aic/
+
+***[science; .mil]***  Chief Digital and Artificial Intelligence Office
+
+\>>>> https://www.ai.mil/
+
+***[science; 2018]*** DARPA - AI Next Campaign
+
+\>>>> https://www.darpa.mil/work-with-us/ai-next-campaign
 
 ***[science; 2021]*** Projections and the Potential Societal Impact of the Future of Neurotechnologies
 
@@ -119,6 +165,18 @@ Brain Mapping *(neuroscience)*, Functional near-infrared spectroscopy *(fNIRS)*,
 ***[science; 2022]*** Neurotechnologies under the Eye of Bioethics
 
 \>>>> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9215686/
+
+***[science; 2013]*** A history of deep brain stimulation: Technological innovation and the role of clinical assessment tools
+
+\>>>> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3785222/
+
+***[science; 2016]*** Neurofeedback: A Comprehensive Review on System Design, Methodology and Clinical Applications
+
+\>>>> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4892319/
+
+***[science; 2018]*** fNIRS Hyperscanning: A door to real-world social neuroscience research
+
+\>>>> https://fnirs.org/2018/02/04/fnirs-hyperscanning-2018/
 
 ***[science; 2022]*** Chapter 12 - Tensors for neuroimaging: A review on applications of tensors to unravel the mysteries of the brain
 
@@ -172,6 +230,12 @@ brainwaves
 ***[article; 2015]*** IBM: Mind reading is less than five years away. For real.
 
 \>>>> https://www.cnet.com/culture/ibm-mind-reading-is-less-than-five-years-away-for-real/
+
+***[blog; 2021]*** How The Hell Do We Link Our Brains To Computers? (Parts 1 and 2)
+
+\>>>> https://howthehell.substack.com/p/bci-part-1
+
+\>>>> https://howthehell.substack.com/p/bci-part-2
 
 ***[video; 2018]*** TED - Mary Lou Jepsen - How we can use light to see deep inside our bodies and brains
 
