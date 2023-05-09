@@ -1,6 +1,9 @@
 
+Electrophysiology
+https://en.wikipedia.org/wiki/Electrophysiology?lang=en
 
 
+https://en.wikipedia.org/wiki/Electrocorticography
 
 
 
@@ -15,7 +18,7 @@ https://nitter.net/jerryptang/status/1575846939543076865?cursor=JQAAAPAWHBk2gMDQ
 
 
 
-
+https://www.paradromics.com/
 https://www.openwater.cc/
 
 
